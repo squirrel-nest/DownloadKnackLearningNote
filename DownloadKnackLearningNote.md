@@ -17,3 +17,12 @@
       + 参考
       + 步骤
    * 设置
+
+# Google Chrome 下载方法
+## Google Chrome for Windows
+   * 下载地址
+      + [Download
+Chrome Browser](https://cloud.google.com/chrome-enterprise/browser/download)<br>
+
+
+# 书籍下载网址汇总
