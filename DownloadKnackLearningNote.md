@@ -11,6 +11,8 @@
 
 
 ## Aria2 for Windows
+   * 下载地址
+      + [Download - aria2 1.35.0](https://github.com/aria2/aria2/releases/)<br>
    * 安装
       + 参考
       + 步骤
